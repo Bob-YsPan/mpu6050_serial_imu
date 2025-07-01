@@ -39,3 +39,11 @@
 
 # debug information files
 *.dwo
+
+# platform io files
+.pio
+.pioenvs
+.piolibdeps
+
+# vscode files
+.vscode
